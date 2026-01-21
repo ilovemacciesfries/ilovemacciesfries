@@ -10,6 +10,6 @@ i build cool stuff :)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovemacciesfries&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Andre 3000 Quote](https://img.shields.io/badge/Andre_3000-little%20room%2C%20great%20things%20start%20in%20little%20rooms%2C%20that%27s%20it.-A2D2FB?style=for-the-badge&logo=musicbrainz&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
